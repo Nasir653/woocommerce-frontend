@@ -30,7 +30,6 @@ frontend/
 ## Setup
 1. Install dependencies:
    ```bash
-   cd frontend
    npm install
    ```
 2. Start the development server:
